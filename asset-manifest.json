@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-pizza-motion-nn/static/css/main.fed5a396.chunk.css",
+    "main.js": "/react-pizza-motion-nn/static/js/main.b0b6743e.chunk.js",
+    "main.js.map": "/react-pizza-motion-nn/static/js/main.b0b6743e.chunk.js.map",
+    "runtime-main.js": "/react-pizza-motion-nn/static/js/runtime-main.59146268.js",
+    "runtime-main.js.map": "/react-pizza-motion-nn/static/js/runtime-main.59146268.js.map",
+    "static/js/2.48bb8971.chunk.js": "/react-pizza-motion-nn/static/js/2.48bb8971.chunk.js",
+    "static/js/2.48bb8971.chunk.js.map": "/react-pizza-motion-nn/static/js/2.48bb8971.chunk.js.map",
+    "index.html": "/react-pizza-motion-nn/index.html",
+    "precache-manifest.fe48a4877fbcc64c780073203c2407ba.js": "/react-pizza-motion-nn/precache-manifest.fe48a4877fbcc64c780073203c2407ba.js",
+    "service-worker.js": "/react-pizza-motion-nn/service-worker.js",
+    "static/css/main.fed5a396.chunk.css.map": "/react-pizza-motion-nn/static/css/main.fed5a396.chunk.css.map",
+    "static/js/2.48bb8971.chunk.js.LICENSE.txt": "/react-pizza-motion-nn/static/js/2.48bb8971.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59146268.js",
+    "static/js/2.48bb8971.chunk.js",
+    "static/css/main.fed5a396.chunk.css",
+    "static/js/main.b0b6743e.chunk.js"
+  ]
+}
